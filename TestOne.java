@@ -1,10 +1,9 @@
 /*
- * Loop using thread
- * */
+ * pattern using thread
+ * 
+ */
 
-package Others;
-
-public class TestOne extends Thread{
+public class Pattern extends Thread{
 	
 	public void run(){
 		for(int i=0; i<=10; i++){
@@ -21,8 +20,7 @@ public class TestOne extends Thread{
 	}
 	
 	public static void main(String...strings){
-		TestOne obj = new TestOne();
+		Pattern obj = new Pattern();
 		obj.run();
 	}
-	
 }

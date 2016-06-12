@@ -2,7 +2,7 @@ package database;
 
 import java.sql.*;
 
-public class ConnectionProvider {
+public class ConnectionProviderMysql {
 	
 	static Connection connection;
 	

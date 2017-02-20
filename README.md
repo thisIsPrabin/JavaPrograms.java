@@ -13,7 +13,8 @@
 <p>If the <code>Path</code> variable is not there then click on new name it as <code>path</code> and add the path.</p>
 <p>Then open up the cmd and type <code>javac</code> to check the java compiler.</p>
 <p>Then type <code>java</code> if it is showing the information then you are good to go.</p>
-
+<br>
+<br>
 <hr />
 <br>
 <br>
